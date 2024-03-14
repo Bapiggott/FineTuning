@@ -15,6 +15,7 @@ pip install accelerate
 pip install appdirs
 pip install bitsandbytes
 pip install datasets
+pip install trl
 pip install fire
 pip install torch
 pip install sentencepiece
